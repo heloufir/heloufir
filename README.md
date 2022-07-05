@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Hatim 🐱‍💻 </h1>
 <img align ="right" src="https://komarev.com/ghpvc/?username=swaiist&label=Profile%20views&color=0e75b6&style=flat" alt="swaiist">
 
-Welcome to my Profile: 
-
 - 🔭 I’m currently working as Development Director at [Alvarium](http://www.alvariumgroup.com) 🥂
 - 🌱 I’m also a Software Engineer & Full-Stack Web / Mobile Developer 💫
 - 🚀 I’m fascinated by everything related to the architecture of web applications ⚡
