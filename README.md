@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Hatim 🐱‍💻 </h1>
-<img align ="right" src="https://komarev.com/ghpvc/?username=swaiist&label=Profile%20views&color=0e75b6&style=flat" alt="swaiist">
-
+  <a href="https://github.com/sponsors/heloufir">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&style=for-the-badge&logo=github&color=FF69B4">
+  </a>
+  
 - 🔭 I’m currently working as Full Stack developer at [Alvarium](http://www.alvariumgroup.com) 🥂
 - 🌱 I’m also a Software Engineer & Full-Stack Web / Mobile Developer 💫
 - 🚀 I’m fascinated by everything related to the architecture of web applications ⚡
