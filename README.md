@@ -18,7 +18,3 @@
 <a href="mailto:eloufirhatim@gmail.com">
   <img align="left" alt="Hatim's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<br/>
-<br/>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=heloufir&show_icons=true&theme=algolia)
