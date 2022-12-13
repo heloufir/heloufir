@@ -3,7 +3,7 @@
     <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&style=for-the-badge&logo=github&color=FF69B4">
   </a>
   
-- 🔭 I’m currently working as Full Stack developer at [Alvarium](http://www.alvariumgroup.com) 🥂
+- 🔭 I’m currently working as Full Stack developer at [CGI](https://www.cgi.com/maroc) 🥂
 - 🌱 I’m also a Software Engineer & Full-Stack Web / Mobile Developer 💫
 - 🚀 I’m fascinated by everything related to the architecture of web applications ⚡
 - 🌐 Working from 127.0.0.1 🦾
