@@ -3,7 +3,7 @@
     <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&style=for-the-badge&logo=github&color=FF69B4">
   </a>
   <a href="https://github.com/heloufir">
-    <img alt="GitHub Heloufir stars" src="https://img.shields.io/github/stars/devaslanphp?color=blue&label=HELOUFIR STARS&logo=github&style=for-the-badge">
+    <img alt="GitHub Heloufir stars" src="https://img.shields.io/github/stars/heloufir?color=blue&label=HELOUFIR STARS&logo=github&style=for-the-badge">
   </a>
   <a href="https://github.com/devaslanphp">
     <img alt="GitHub Devaslanphp stars" src="https://img.shields.io/github/stars/devaslanphp?color=green&label=DEVASLANPHP STARS&logo=github&style=for-the-badge">
