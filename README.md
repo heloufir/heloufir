@@ -28,7 +28,7 @@
 <br/>
 <div>
 <a href="https://github.com/heloufir">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloufir&layout=compact&langs_count=7&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heloufir&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=heloufir&&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heloufir&&show_icons=true&theme=dark"/>
 </a>
 </div>
