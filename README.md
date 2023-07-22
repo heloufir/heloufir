@@ -6,7 +6,7 @@
     <img alt="GitHub Devaslanphp stars" src="https://img.shields.io/github/stars/devaslanphp?color=green&label=DEVASLANPHP STARS&logo=github&style=for-the-badge">
   </a>
   
-- 🔭 I’m currently working as Technical Expert (Java JEE / Angular) at [CGI](https://www.cgi.com/maroc) 🥂
+- 🔭 I’m currently working as Senior Java Programmer-Analyse (Java JEE / Angular / ...) 🥂
 - 🌱 I’m also a Software Engineer & Full-Stack Web / Mobile Developer 💫
 - 🚀 I’m fascinated by everything related to the architecture of web applications ⚡
 - 🌐 Working from 127.0.0.1 🦾
